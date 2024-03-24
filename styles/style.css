@@ -160,6 +160,7 @@ appearance: none;
   align-items: center;
   width: fit-content;
   gap: 15px;
+  margin-bottom: 5px;
 }
 
 .search-form__pseudo-checkbox {
